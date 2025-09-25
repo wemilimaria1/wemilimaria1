@@ -1,6 +1,6 @@
 # Olá! 👋 Meu nome é Wemili  
 
-💻 **Estudante de TI | Futuro Cientista de Dados**  
+💻 **Estudante de TI | Futura Cientista de Dados**  
 
 ✨ **Sobre mim:**  
 - Apaixonada por tecnologia e ciência de dados.  
