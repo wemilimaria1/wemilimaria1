@@ -1,4 +1,4 @@
-<img src="nome.gif" width="400" />
+## Olá, eu sou a Wemili !! 
 
 **Estudante de TI | Futura Cientista de Dados**       
 ✨ **Sobre mim:**  
