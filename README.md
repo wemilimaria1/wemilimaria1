@@ -1,7 +1,6 @@
-<img src="nome.gif" width="550" />
+<img src="nome.gif" width="400" />
 
-💻 **Estudante de TI | Futura Cientista de Dados** <img src="gif" width="200" />         
-
+**Estudante de TI | Futura Cientista de Dados**       
 ✨ **Sobre mim:**  
 - Apaixonada por tecnologia e ciência de dados.  
 - Sempre buscando aprender algo novo e aprimorando minhas competências.  
