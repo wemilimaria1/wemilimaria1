@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Wemili !! 
 
-**Estudante de TI | Futura Cientista de Dados**       
+**💻 Estudante de TI | Futura Cientista de Dados**       
 ✨ **Sobre mim:**  
 - Cursando Tecnologia em ciência de dados.  
 - Sempre buscando aprender algo novo e aprimorando minhas competências.  
