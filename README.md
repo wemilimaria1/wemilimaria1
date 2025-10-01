@@ -1,4 +1,4 @@
-## Olá, eu sou a Wemili !! 
+##👋 Olá, eu sou a Wemili !! 
 
 **Estudante de TI | Futura Cientista de Dados**       
 ✨ **Sobre mim:**  
