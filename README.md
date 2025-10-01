@@ -28,7 +28,7 @@
 📊 **Projetos:**  
 Confira meus repositórios com projetos de análise de dados e dashboards!  
 
-  <img src="gif" width="100" />
+  <img src="gif" width="100" />   ![eu em pixel](
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
