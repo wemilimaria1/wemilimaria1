@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B8+Ol%C3%A1,+eu+sou+a+Wemili!;%F0%9F%92%9C+Bem-vindo+ao+meu+perfil!+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
-![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)![1.gif](1.gif)
+![1.gif](1.gif)
 
 **💻 Estudante de TI | Futura Cientista de Dados**       
 ## ✨ **Sobre mim:**  
