@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B8+Ol%C3%A1,+eu+sou+a+Wemili!;%F0%9F%92%9C+Bem-vindo+ao+meu+perfil!+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B8+Ol%C3%A1,+eu+sou+a+Wemili!;%F0%9F%92%9C+Bem-vindo(a)+ao+meu+perfil!+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
 ![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)
