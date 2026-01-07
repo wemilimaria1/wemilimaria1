@@ -5,9 +5,9 @@
 ![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)![brilho.gif](shine.gif)
 
 
-**💻 Estudante de TI | Futura Cientista de Dados**       
+**💻 Estudante de TI | Cientista de Dados**       
 ## ✨ **Sobre mim:**  
-- Cursando Tecnologia em ciência de dados.  
+- Graduada em Tecnologia em ciência de dados.  
 - Sempre buscando aprender algo novo e aprimorando minhas competências.  
 - Buscando uma oportunidade na área de tecnologia e dados.  
 
